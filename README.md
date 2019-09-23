@@ -18,6 +18,14 @@ There will be overlaps between each one of the above since each tries to convey 
 2. Map process on best tools
 3. Targeted practice = build a portfolio to show off your work
 
+TODO - Tidbit videos/posts
+These tidbits can be like little segments to break up the course through content heavy sections.
+- Day in the life type videos
+- Skills they don't teach
+- How to ask questions of a problem
+- How to research like a boss
+- How to cut through the weeds and find what matters (reducing the search space), focusing on one thing... less but better
+
 ## Table of Contents
 
 1. Getting your mind and computer ready for machine learning
