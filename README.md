@@ -1,6 +1,6 @@
-# zero-to-mastery-ml
+# Zero to Mastery Machine Learning
 
-Blog posts and scripts related to the Zero to Mastery Machine Learning course on Udemy.
+Blog posts, scripts, projects and code related to the Zero to Mastery Machine Learning course on Udemy.
 
 ## How this course is structured
 
