@@ -42,12 +42,12 @@ This article focuses on data modelling. It assumes you have already collected da
 |:--:| 
 | *Machine learning projects can be broken into three steps, data collection, data modelling and deployment. This article focuses on steps within the data modelling phase and assumes you already have data. Full version on [Whimsical](https://whimsical.com/9g65jgoRYTxMXxDosndYTB).* |
 
-1. **Problem definition** — What business problem are we trying to solve? How can it be phrased as a machine learning problem?
-2. **Data** — If machine learning is getting insights out of data, what data we have? How does it match the problem definition? Is our data structured or unstructured? Static or streaming?
-3. **Evaluation** — What defines success? Is a 95% accurate machine learning model good enough?
-4. **Features** — What parts of our data are we going to use for our model? How can what we already know influence this?
-5. **Modelling** — Which model should you choose? How can you improve it? How do you compare it with other models?
-6. **Experimentation** — What else could we try? Does our deployed model do as we expected? How do the other steps change based on what we’ve found?
+1. [**Problem definition**](https://github.com/mrdbourke/zero-to-mastery-ml/blob/section-1/section-1-getting-ready-for-machine-learning/a-6-step-framework-for-approaching-machine-learning-projects.md#1-problem-definitionrephrase-your-business-problem-as-a-machine-learning-problem) — What business problem are we trying to solve? How can it be phrased as a machine learning problem?
+2. [**Data**](https://github.com/mrdbourke/zero-to-mastery-ml/blob/section-1/section-1-getting-ready-for-machine-learning/a-6-step-framework-for-approaching-machine-learning-projects.md#2-dataif-machine-learning-is-getting-insights-out-of-data-what-data-do-you-have) — If machine learning is getting insights out of data, what data we have? How does it match the problem definition? Is our data structured or unstructured? Static or streaming?
+3. [**Evaluation**](https://github.com/mrdbourke/zero-to-mastery-ml/blob/section-1/section-1-getting-ready-for-machine-learning/a-6-step-framework-for-approaching-machine-learning-projects.md#3-evaluationwhat-defines-success-is-a-95-accurate-machine-learning-model-good-enough) — What defines success? Is a 95% accurate machine learning model good enough?
+4. [**Features**](https://github.com/mrdbourke/zero-to-mastery-ml/blob/section-1/section-1-getting-ready-for-machine-learning/a-6-step-framework-for-approaching-machine-learning-projects.md#4-featureswhat-features-does-your-data-have-and-which-can-you-use-to-build-your-model) — What parts of our data are we going to use for our model? How can what we already know influence this?
+5. [**Modelling**](https://github.com/mrdbourke/zero-to-mastery-ml/blob/section-1/section-1-getting-ready-for-machine-learning/a-6-step-framework-for-approaching-machine-learning-projects.md#5-modellingwhich-model-should-you-choose-how-can-you-improve-it-how-do-you-compare-it-with-other-models) — Which model should you choose? How can you improve it? How do you compare it with other models?
+6. [**Experimentation**](https://github.com/mrdbourke/zero-to-mastery-ml/blob/section-1/section-1-getting-ready-for-machine-learning/a-6-step-framework-for-approaching-machine-learning-projects.md#6-experimentationwhat-else-could-we-try-how-do-the-other-steps-change-based-on-what-weve-found-does-our-deployed-model-do-as-we-expected) — What else could we try? Does our deployed model do as we expected? How do the other steps change based on what we’ve found?
 
 Let’s dive a little deeper in each.
 
