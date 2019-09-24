@@ -317,10 +317,10 @@ Each of these steps could deserve an article on their own. I’ll work on it.
 
 In the meantime, there are some things to note.
 
-It’s always about the data. Without good data to begin with, no machine learning model will help you. If you want to use machine learning in your business, it starts with good data collection.
+**It’s always about the data.** Without good data to begin with, no machine learning model will help you. If you want to use machine learning in your business, it starts with good data collection.
 
-Deployment changes everything. A good model offline doesn’t always mean a good model online. This article has focused on data modelling. Once you deploy a model, there’s infrastructure management, data verification, model retraining, analysis and more. Any cloud provider has services for these but putting them together is still a bit of a dark art. Pay your data engineers well. If you’re data engineer, share what you know.
+**Deployment changes everything.** A good model offline doesn’t always mean a good model online. This article has focused on data modelling. Once you deploy a model, there’s infrastructure management, data verification, model retraining, analysis and more. Any cloud provider has services for these but putting them together is still a bit of a dark art. Pay your data engineers well. If you’re data engineer, share what you know.
 
-Data collection and model deployment are the longest parts of a machine learning pipeline. This article has only focused on modelling. And even then, it misses specifics on how to get your data ready to be modelled.
+**Data collection and model deployment are the longest parts of a machine learning pipeline.** This article has only focused on modelling. And even then, it misses specifics on how to get your data ready to be modelled (other sections in this repo cover that).
 
-Tools of the trade vary. Machine learning is big tool comprised of many other tools. From code libraries and frameworks to different deployment architectures. There’s usually several different ways to do the same thing. Best practice is continually being changed. This article focuses on things which don’t.
+**Tools of the trade vary. Machine learning is big tool comprised of many other tools.** From code libraries and frameworks to different deployment architectures. There’s usually several different ways to do the same thing. Best practice is continually being changed. This article focuses on things which don’t.
