@@ -27,6 +27,10 @@ These tidbits can be like little segments to break up the course through content
 - How to cut through the weeds and find what matters (reducing the search space), focusing on one thing... less but better
 
 ## Table of Contents
-
+TODO - make this sound better, as in "this is structured like a week in the life of a new data science/machine learning hire... we're going to go through what you'd do"
 1. Getting your mind and computer ready for machine learning
-2. 
+2. TODO
+3. TODO
+4. TODO
+5. TODO
+6. TODO
