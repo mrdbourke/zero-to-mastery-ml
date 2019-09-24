@@ -28,7 +28,7 @@ These tidbits can be like little segments to break up the course through content
 
 ## Table of Contents
 TODO - make this sound better, as in "this is structured like a week in the life of a new data science/machine learning hire... we're going to go through what you'd do"
-1. DOING - Getting your mind and computer ready for machine learning
+1. [DOING - Getting your mind and computer ready for machine learning](https://github.com/mrdbourke/zero-to-mastery-ml/tree/section-1/section-1-getting-ready-for-machine-learning)
 2. TODO
 3. TODO
 4. TODO
