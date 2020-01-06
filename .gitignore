@@ -1,0 +1,14 @@
+# env
+env
+
+# DS_Store
+*.DS_Store
+
+# Jupyter checkpoints
+*.ipynb_checkpoints
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Model files
+*.pkl
+*.joblib
