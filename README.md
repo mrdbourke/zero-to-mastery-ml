@@ -8,7 +8,7 @@ If you'd like to see anything in particular, please send me an email: [daniel@mr
 
 ## What this course focuses on
 
-1. Create a framework for working through problems ([6 step machine learning modelling framework](https://github.com/mrdbourke/zero-to-mastery-ml/blob/master/section-1-getting-ready-for-machine-learning/a-6-step-framework-for-approaching-machine-learning-projects.md)
+1. Create a framework for working through problems ([6 step machine learning modelling framework](https://github.com/mrdbourke/zero-to-mastery-ml/blob/master/section-1-getting-ready-for-machine-learning/a-6-step-framework-for-approaching-machine-learning-projects.md))
 2. Find tools to fit the framework
 3. Targeted practice = use tools and framework steps to work on end-to-end machine learning modelling projects 
 
