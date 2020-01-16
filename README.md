@@ -2,7 +2,7 @@
 
 Welcome! This repository contains all of the code, notebooks, images and other materials related to the Zero to Mastery Machine Learning Course on Udemy.
 
-As the course is still being developed, it's still a work in progress.
+As the course is still being developed, it's still a work in progress (plenty more to come!).
 
 If you'd like to see anything in particular, please send me an email: [daniel@mrdbourke.com](mailto:daniel@mrdbourke.com) or leave an issue.
 
