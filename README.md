@@ -1,10 +1,14 @@
 # Zero to Mastery Machine Learning
 
-Blog posts, scripts, projects and code related to the Zero to Mastery Machine Learning course on Udemy.
+Welcome! This repository contains all of the code, notebooks, images and other materials related to the Zero to Mastery Machine Learning Course on Udemy.
+
+As the course is still being developed, it's still a work in progress.
+
+If you'd like to see anything in particular, please send me an email: [daniel@mrdbourke.com](mailto:daniel@mrdbourke.com) or leave an issue.
 
 ## How this course is structured
 
-There are three major styles of materials in this course. Each major seciton contains at least one of the following:
+There are three major styles of materials in this course. Each major section contains at least one of the following:
 
 1. Blog post - an overview of the concepts and code covered in the section.
 2. Video lectures - walk-throughs of different concepts and code (on Udemy, YouTube & Loom videos where applicable).
@@ -29,12 +33,3 @@ These tidbits can be like little segments to break up the course through content
 TODO - How to go through this course
 - Make a Trello/Notion board/Project (see the tab above) of how to go through this course
 - Want to make an outline of steps a person can follow and the way they can go through the course
-
-## Table of Contents
-TODO - make this sound better, as in "this is structured like a week in the life of a new data science/machine learning hire... we're going to go through what you'd do"
-1. [DOING - Getting your mind and computer ready for machine learning](https://github.com/mrdbourke/zero-to-mastery-ml/tree/section-1/section-1-getting-ready-for-machine-learning)
-2. TODO
-3. TODO
-4. TODO
-5. TODO
-6. TODO
