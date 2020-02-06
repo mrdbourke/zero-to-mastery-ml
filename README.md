@@ -1,35 +1,21 @@
 # Zero to Mastery Machine Learning
 
-Welcome! This repository contains all of the code, notebooks, images and other materials related to the Zero to Mastery Machine Learning Course on Udemy.
+Welcome! This repository contains all of the code, notebooks, images and other materials related to the [Zero to Mastery Machine Learning Course on Udemy](https://dbourke.link/ZTMMLFeb2020).
 
-As the course is still being developed, it's still a work in progress.
+As the course is still being developed, it's still a work in progress (plenty more to come!).
 
 If you'd like to see anything in particular, please send me an email: [daniel@mrdbourke.com](mailto:daniel@mrdbourke.com) or leave an issue.
 
-## How this course is structured
-
-There are three major styles of materials in this course. Each major section contains at least one of the following:
-
-1. Blog post - an overview of the concepts and code covered in the section.
-2. Video lectures - walk-throughs of different concepts and code (on Udemy, YouTube & Loom videos where applicable).
-3. Project - putting together what you've learned in a hands-on project.
-
-There will be overlaps between each one of the above since each tries to convey a concept from a different angle.
-
 ## What this course focuses on
 
-1. Create a process for working through problems
-2. Map process on best tools
-3. Targeted practice = build a portfolio to show off your work
+1. Create a framework for working through problems ([6 step machine learning modelling framework](https://github.com/mrdbourke/zero-to-mastery-ml/blob/master/section-1-getting-ready-for-machine-learning/a-6-step-framework-for-approaching-machine-learning-projects.md))
+2. Find tools to fit the framework
+3. Targeted practice = use tools and framework steps to work on end-to-end machine learning modelling projects 
 
-TODO - Tidbit videos/posts
-These tidbits can be like little segments to break up the course through content heavy sections.
-- Day in the life type videos
-- Skills they don't teach
-- How to ask questions of a problem
-- How to research like a boss
-- How to cut through the weeds and find what matters (reducing the search space), focusing on one thing... less but better
+## How this course is structured 
 
-TODO - How to go through this course
-- Make a Trello/Notion board/Project (see the tab above) of how to go through this course
-- Want to make an outline of steps a person can follow and the way they can go through the course
+* Section 1 - Getting your mind and computer ready for machine learning (concepts, computer setup)
+* Section 2 - Tools for machine learning and data science (pandas, NumPy, Matplotlib, Scikit-Learn)
+* Section 3 - End-to-end structured data projects (classification and regression)
+* *(work in progress) Section 4 - Neural networks, deep learning and transfer learning with TensorFlow 2.0*
+* *(work in progress) Section 5 - Communicating and sharing your work*
