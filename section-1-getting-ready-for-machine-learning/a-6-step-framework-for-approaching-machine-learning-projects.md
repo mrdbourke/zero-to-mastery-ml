@@ -38,7 +38,7 @@ The specifics of these steps will be different for each project. But the princip
 
 This article focuses on data modelling. It assumes you have already collected data, and are looking to build a machine learning proof of concept with it. Let’s break down how you might approach it.
 
-| ![](images/6-step-machine-learning-modelling-field-guide.png) | 
+| ![](../images/ml101-6-step-ml-framework.png) | 
 |:--:| 
 | *Machine learning projects can be broken into three steps, data collection, data modelling and deployment. This article focuses on steps within the data modelling phase and assumes you already have data. Full version on [Whimsical](https://whimsical.com/9g65jgoRYTxMXxDosndYTB).* |
 
@@ -128,7 +128,7 @@ For predicting heart disease, one column may be sex, another average heart rate,
 
 For the insurance claim example, one column may be the text a customer has sent in for the claim, another may be the image they’ve sent in along with the text and a final a column being the outcome of the claim. This table gets updated with new claims or altered results of old claims daily.
 
-| ![](images/two-data-tables.jpg) | 
+| ![](../images/ml101-two-data-tables.png) | 
 |:--:| 
 | *Two examples of structured data with different kinds of data within it. Table 1.0 has numerical and categorical data. Table 2.0 has unstructured data with images and natural language text but is presented in a structured manner.* |
 
@@ -137,7 +137,7 @@ The principle remains. You want to use the data you have to gains insights or pr
 For supervised learning, this involves using the feature variable(s) to predict the target variable(s). A feature variable for predicting heart disease could be sex with the target variable being whether or not the patient has heart disease.
 
 
-| ![](images/different-data-types.jpg) | 
+| ![](../images/ml101-different-data-types.png) | 
 |:--:| 
 | *Table 1.0 broken into ID column (yellow, not used for building machine learning model), feature variables (orange) and target variables (green). A machine learning model finds the patterns in the feature variables and predicts the target variables.* |
 
@@ -232,13 +232,17 @@ What then?
 
 Ensembles of decision trees and gradient boosted algorithms (fancy words, definitions not important for now) usually work best on structured data, like Excel tables and dataframes. Look into random forests, [XGBoost](https://xgboost.ai/) and [CatBoost](https://catboost.ai/).
 
+| ![tools you can use for machine learning](../images/ml101-6-step-ml-framework-tools.png) | 
+|:--:| 
+| *A non-exhaustive example of all the different tools you can use for machine learning/data science.* |
+
 Deep models such as neural networks generally work best on unstructured data like images, audio files and natural language text. However, the trade-off is they usually take longer to train, are harder to debug and prediction time takes longer. But this doesn’t mean you shouldn’t use them.
 
 Transfer learning is an approach which takes advantage of deep models and linear models. It involves taking a pre-trained deep model and using the patterns it has learned as the inputs to your linear model. This saves dramatically on training time and allows you to experiment faster.
 
 Where do I find pre-trained models?
 
-Pre-trained models are available on [PyTorch hub](https://pytorch.org/hub), [TensorFlow hub](https://www.tensorflow.org/hub), [model zoo](https://modelzoo.co/) and within the fast.ai framework. This is a good place to look first for building any kind of proof of concept.
+Pre-trained models are available on [PyTorch hub](https://pytorch.org/hub), [TensorFlow hub](https://www.tensorflow.org/hub), [model zoo](https://modelzoo.co/) and within the [fast.ai](https://www.fast.ai/) framework. This is a good place to look first for building any kind of proof of concept.
 
 What about the other kinds of models?
 
