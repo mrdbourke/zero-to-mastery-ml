@@ -1,6 +1,6 @@
 # Zero to Mastery Machine Learning
 
-Welcome! This repository contains all of the code, notebooks, images and other materials related to the [Zero to Mastery Machine Learning Course on Udemy](https://dbourke.link/ZTMMLAPR2020).
+Welcome! This repository contains all of the code, notebooks, images and other materials related to the [Zero to Mastery Machine Learning Course on Udemy](https://dbourke.link/mlcourse).
 
 As the course is still being developed, it's still a work in progress (plenty more to come!).
 
