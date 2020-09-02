@@ -17,3 +17,7 @@ If you'd like to see anything in particular, please send me an email: [daniel@mr
 * Section 3 - End-to-end structured data projects (classification and regression)
 * Section 4 - Neural networks, deep learning and transfer learning with TensorFlow 2.0
 * Section 5 - Communicating and sharing your work
+
+## How to learn :
+  If you want to learn anything You must dirty your hand, Which means experiounce is the best way to learn.
+  Wish you a grate learning experiounce friends
