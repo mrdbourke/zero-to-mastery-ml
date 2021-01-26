@@ -1,6 +1,6 @@
 # Zero to Mastery Machine Learning
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mrdbourke/zero-to-mastery-ml/master)
-[![Deepnote](https://deepnote.com/buttons/launch-in-deepnote-small.svg)](https://www.deepnote.com/launch?template=data-science&url=https://github.com/mrdbourke/zero-to-mastery-ml/blob/master/section-2-data-science-and-ml-tools/introduction-to-pandas.ipynb)
+[![Deepnote](https://deepnote.com/buttons/launch-in-deepnote.svg)](https://www.deepnote.com/launch?template=data-science&url=https://github.com/mrdbourke/zero-to-mastery-ml/blob/master/section-2-data-science-and-ml-tools/introduction-to-pandas.ipynb)
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mrdbourke/zero-to-mastery-ml/blob/master)
 
 Welcome! This repository contains all of the code, notebooks, images and other materials related to the [Zero to Mastery Machine Learning Course on Udemy](https://dbourke.link/mlcourse) and [zerotomastery.io](https://dbourke.link/ZTMmlcourse).
