@@ -12,3 +12,7 @@ env
 # Model files
 *.pkl
 *.joblib
+
+# Misc (playground/large data file)
+data/bluebook_for_bulldozers/
+notebook-playground.ipynb
