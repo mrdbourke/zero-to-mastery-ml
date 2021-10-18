@@ -8,5 +8,5 @@ That's what this section focuses on.
 
 Key:
 
-* Notebooks with "-video" on the end are taken directly from the lectures on Udemy.
-* Notebooks without "-video" on the end include annotations and extra information not seen in the lectures.
+* Notebooks **with** `-video.ipynb` on the end are taken directly from the video lectures.
+* Notebooks **without** `-video.ipynb` on the end include annotations and extra information not seen in the lectures.
