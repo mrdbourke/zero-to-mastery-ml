@@ -5,7 +5,9 @@
 
 Welcome! This repository contains all of the code, notebooks, images and other materials related to the [Zero to Mastery Machine Learning Course on Udemy](https://dbourke.link/mlcourse) and [zerotomastery.io](https://dbourke.link/ZTMmlcourse).
 
-If you'd like to see anything in particular, please send me an email: [daniel@mrdbourke.com](mailto:daniel@mrdbourke.com) or leave an issue.
+## Quick links
+* Found something wrong with the code? Leave an [issue](https://github.com/mrdbourke/zero-to-mastery-ml/issues).
+* Got a question? [Post a discussion](https://github.com/mrdbourke/zero-to-mastery-ml/discussions) (see the [question template](https://github.com/mrdbourke/zero-to-mastery-ml/discussions/48)). 
 
 ## What this course focuses on
 
