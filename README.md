@@ -9,6 +9,9 @@ Welcome! This repository contains all of the code, notebooks, images and other m
 * Found something wrong with the code? Leave an [issue](https://github.com/mrdbourke/zero-to-mastery-ml/issues).
 * Got a question? [Post a discussion](https://github.com/mrdbourke/zero-to-mastery-ml/discussions) (see the [question template](https://github.com/mrdbourke/zero-to-mastery-ml/discussions/48)). 
 
+## Updates
+* 25 Aug 2023 - Update section 3 end-to-end bulldozer regression notebook for Scikit-Learn 1.3+ (column order for predictions should match column order for training). See [#62](https://github.com/mrdbourke/zero-to-mastery-ml/discussions/62) for more.
+
 ## What this course focuses on
 
 1. Create a framework for working through problems ([6 step machine learning modelling framework](https://github.com/mrdbourke/zero-to-mastery-ml/blob/master/section-1-getting-ready-for-machine-learning/a-6-step-framework-for-approaching-machine-learning-projects.md))
