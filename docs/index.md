@@ -1,17 +1,16 @@
-# Welcome to MkDocs
+# Welcome to the Zero to Mastery Data Science and Machine Learning Bootcamp!
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+This documentation is a work in progress and will be updated rapidly over the next few weeks.
 
-## Commands
+In the meantime, check out the following:
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+* 📚 Get the course materials on the [course GitHub](https://github.com/mrdbourke/zero-to-mastery-ml/)
+* 🎥 Watch the [first 10 hours of the course on YouTube](https://youtu.be/r67SfaiYaDI?ref=mrdbourke.com)
+* 🤓 [Read more](https://www.mrdbourke.com/mlcourse/?ref=mrdbourke.com) on the course page
+* 💻 [Sign up to the course on Zero to Mastery](https://dbourke.link/ZTMmlcourse?ref=mrdbourke.com) and start coding
 
-## Project layout
+Best, 
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+[Daniel Bourke](https://www.mrdbourke.com)
+
+Last update: 6 October 2023
