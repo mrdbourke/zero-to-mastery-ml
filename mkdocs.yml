@@ -1,1 +1,21 @@
 site_name: My Docs
+
+nav:
+  - Home: "index.md"
+  - Getting Ready for ML Projects: "a-6-step-framework-for-approaching-machine-learning-projects.md"
+  - Introduction to NumPy: "introduction-to-numpy.ipynb"
+
+plugins:
+  - mkdocs-jupyter:
+      ignore_h1_titles: True
+
+theme:
+  name: material
+  # logo: assets/ztm-logo-and-pytorch-logo.png
+  # favicon: assets/ztm-logo-and-pytorch-logo.png
+  features:
+    - navigation.instant
+    - navigation.top
+  palette:
+    primary: black
+
