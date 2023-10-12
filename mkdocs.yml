@@ -1,4 +1,8 @@
-site_name: My Docs
+site_name: Zero to Mastery Data Science and Machine Learning Bootcamp
+site_description: Learn the fundamentals of machine learning and data science with Python via hands-on coding tutorials.
+
+repo_url: https://github.com/mrdbourke/zero-to-mastery-ml
+repo_name: mrdbourke/zero-to-mastery-ml
 
 nav:
   - Home: "index.md"
@@ -19,3 +23,24 @@ theme:
   palette:
     primary: black
 
+markdown_extensions:
+  - meta
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+plugins:
+ - mkdocs-jupyter:
+    include_source: True
+ - search
+ - social
+
+ extra:
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/mrdbourke
+    - icon: fontawesome/brands/github
+      link: https://github.com/mrdbourke/zero-to-mastery-ml
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/channel/UCr8O8l5cCX85Oem1d18EezQ
