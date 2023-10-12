@@ -29,6 +29,9 @@ jobs:
 
       # Copy required notebooks to docs folder
       - run: cp section-2-data-science-and-ml-tools/introduction-to-numpy.ipynb docs/
+      - run: cp section-2-data-science-and-ml-tools/introduction-to-pandas.ipynb docs/
+      - run: cp section-2-data-science-and-ml-tools/introduction-to-matplotlib.ipynb docs/
+      - run: cp section-2-data-science-and-ml-tools/introduction-to-scikit-learn.ipynb docs/
 
       # Last step to deploy docs
       - run: mkdocs gh-deploy --force

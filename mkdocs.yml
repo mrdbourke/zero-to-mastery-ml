@@ -15,6 +15,9 @@ nav:
 plugins:
   - mkdocs-jupyter:
       ignore_h1_titles: True
+      # include_source: True
+  - search
+  # - social # this will break without cairosvg and pillow installed locally
 
 theme:
   name: material
@@ -33,13 +36,7 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
 
-plugins:
-  - mkdocs-jupyter:
-      include_source: True
-  - search
-  - social
-
- extra:
+extra:
   social:
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/mrdbourke
