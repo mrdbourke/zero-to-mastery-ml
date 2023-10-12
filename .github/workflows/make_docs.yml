@@ -25,4 +25,10 @@ jobs:
       # - run: apt-get install pngquant 
       - run: pip install git+https://${{ secrets.GH_MATERIAL_MKDOCS_TOKEN }}@github.com/squidfunk/mkdocs-material-insiders.git
       - run: pip install mkdocs-jupyter
+      - run: pip install pillow cairosvg # install social share card plugins
+
+      # Copy required notebooks to docs folder
+      - run: cp section-2-data-science-and-ml-tools/introduction-to-numpy.ipynb docs/
+
+      # Last step to deploy docs
       - run: mkdocs gh-deploy --force
