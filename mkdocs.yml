@@ -8,6 +8,9 @@ nav:
   - Home: "index.md"
   - Getting Ready for ML Projects: "a-6-step-framework-for-approaching-machine-learning-projects.md"
   - Introduction to NumPy: "introduction-to-numpy.ipynb"
+  - Introduction to pandas: "introduction-to-pandas.ipynb"
+  - Introduction to Matplotlib: "introduction-to-matplotlib.ipynb"
+  - Introduction to Scikit-Learn: "introduction-to-scikit-learn.ipynb"
 
 plugins:
   - mkdocs-jupyter:
@@ -31,10 +34,10 @@ markdown_extensions:
       custom_checkbox: true
 
 plugins:
- - mkdocs-jupyter:
-    include_source: True
- - search
- - social
+  - mkdocs-jupyter:
+      include_source: True
+  - search
+  - social
 
  extra:
   social:
