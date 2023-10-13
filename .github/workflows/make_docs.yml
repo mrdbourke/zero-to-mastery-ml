@@ -32,6 +32,7 @@ jobs:
       - run: cp section-2-data-science-and-ml-tools/introduction-to-pandas.ipynb docs/
       - run: cp section-2-data-science-and-ml-tools/introduction-to-matplotlib.ipynb docs/
       - run: cp section-2-data-science-and-ml-tools/introduction-to-scikit-learn.ipynb docs/
+      - run: cp communicating-your-work.md docs/
       - run: cp images/* docs/images/
 
       # Last step to deploy docs
