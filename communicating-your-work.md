@@ -1,4 +1,4 @@
-# How to Think About Communicating and Sharing Your Work
+# Communicating and Sharing Your Work as a Data Scientist/Machine Learning Engineer
 
 This article is nearly 3000 words long but you can summarise it in 3.
 
@@ -53,7 +53,7 @@ That's what Amber is there for. She's there to help oversee and figure out the c
 
 When preparing a report, align it to the questions and concerns Amber may have. If you’ve asked yourself, “What does Amber need to know?”, start with the answers.
 
-| ![staying on time and budget means removing roadblocks](images/communicating-removing-roadblocks.png) | 
+| ![staying on time and budget means removing roadblocks](images/communicating-removing-roadblocks.jpeg) | 
 |:--:| 
 | *Your bosses primary job is to take care of you and challenging you (if not, get a new boss). After this, it's in their best interest for projects to run on budget and time. This means keeping obstacles out of your way. If something is holding you back, you should let them know.* |
 
