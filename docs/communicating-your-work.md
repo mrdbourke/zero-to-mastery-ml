@@ -1,4 +1,4 @@
-# How to Think About Communicating and Sharing Your Work
+# Communicating and Sharing Your Work as a Data Scientist/Machine Learning Engineer
 
 This article is nearly 3000 words long but you can summarise it in 3.
 
@@ -75,11 +75,13 @@ Set a reminder for the end of each day. Have it ask, "What did you work on today
 You could use the following template.
 
 What I worked on today (1-3 points on what you did):
+
 * What's working?
 * What's not working?
 * What could be improved?
 
 What I'm working on next:
+
 * What's your next course of action? (based on the above)
 * Why?
 * What's holding you back?
