@@ -9,8 +9,10 @@ In the meantime, check out the following:
 * 🤓 [Read more](https://www.mrdbourke.com/mlcourse/?ref=mrdbourke.com) on the course page
 * 💻 [Sign up to the course on Zero to Mastery](https://dbourke.link/ZTMmlcourse?ref=mrdbourke.com) and start coding
 
+**Currently working on:** Updating the [Dog Vision project](https://dev.mrdbourke.com/zero-to-mastery-ml/end-to-end-dog-vision-v2/) (classifying images of dogs with computer vision) for 2024.
+
 Best, 
 
 [Daniel Bourke](https://www.mrdbourke.com)
 
-Last update: 12 October 2023
+Last update: 9 November 2023
