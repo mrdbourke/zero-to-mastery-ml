@@ -11,7 +11,7 @@ nav:
   - Introduction to pandas: "introduction-to-pandas.ipynb"
   - Introduction to Matplotlib: "introduction-to-matplotlib.ipynb"
   - Introduction to Scikit-Learn: "introduction-to-scikit-learn.ipynb"
-  - Introduction to TensorFlow: "end-to-end-dog-vision-v2.ipynb"
+  - Introduction to TensorFlow, Deep Learning and Transfer Learning: "end-to-end-dog-vision-v2.ipynb"
   - Communicating your work: "communicating-your-work.md"
 
 plugins:
