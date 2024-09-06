@@ -27,4 +27,4 @@ If you have any questions, leave an issue/discussion on the [course GitHub](http
 
 [Daniel Bourke](https://www.mrdbourke.com)
 
-Last update: 26 April 2024
+Last update: 6 September 2024
