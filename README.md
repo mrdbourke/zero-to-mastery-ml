@@ -5,15 +5,16 @@
 Welcome! This repository contains all of the code, notebooks, images and other materials related to the [Zero to Mastery Machine Learning Course on Udemy](https://dbourke.link/mlcourse) and [zerotomastery.io](https://dbourke.link/ZTMmlcourse).
 
 ## Quick links
+
 * 🎥 Watch the [first 10 hours of the course on YouTube](https://youtu.be/r67SfaiYaDI).
 * 📚 Read the materials of the course in a [beautiful online book](https://dev.mrdbourke.com/zero-to-mastery-ml/).
 * 🤔 Found something wrong with the code? Leave an [issue](https://github.com/mrdbourke/zero-to-mastery-ml/issues).
 * ❓ Got a question? [Post a discussion](https://github.com/mrdbourke/zero-to-mastery-ml/discussions) (see the [question template](https://github.com/mrdbourke/zero-to-mastery-ml/discussions/48)). 
 
 ## Updates
-* **12 October 2023** - Created an online book version of the course materials, see: https://dev.mrdbourke.com/zero-to-mastery-ml/ (currently a work in progress)
-* **7 Sep 2023 onward** - Working on updating the materials for 2024, see the progress in [#63](https://github.com/mrdbourke/zero-to-mastery-ml/discussions/63)
-* **25 Aug 2023** - Update section 3 end-to-end bulldozer regression notebook for Scikit-Learn 1.3+ (column order for predictions should match column order for training). See [#62](https://github.com/mrdbourke/zero-to-mastery-ml/discussions/62) for more.
+
+* **12 September 2024** - Working on updating the materials for 2025, see progress in [#105](https://github.com/mrdbourke/zero-to-mastery-ml/discussions/105)
+* **12 October 2023** - Created an online book version of the course materials, see: https://dev.mrdbourke.com/zero-to-mastery-ml/ 
 
 ## What this course focuses on
 
