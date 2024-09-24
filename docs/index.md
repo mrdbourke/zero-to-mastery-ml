@@ -11,6 +11,10 @@ This webpage contains all of the materials for the Zero to Mastery Data Science 
 
 ## Contents
 
+The following contents are listed in suggested chronological order.
+
+But feel free to mix in match in anyway you feel fit.
+
 | **Resource** | **Description** |
 |--------------|-----------------|
 | [A 6 step framework for approaching machine learning projects](https://dev.mrdbourke.com/zero-to-mastery-ml/a-6-step-framework-for-approaching-machine-learning-projects/) | A guideline for different kinds of machine learning projects and how to break them down into smaller steps. |
@@ -18,8 +22,9 @@ This webpage contains all of the materials for the Zero to Mastery Data Science 
 | [Introduction to pandas](https://dev.mrdbourke.com/zero-to-mastery-ml/introduction-to-pandas/) | pandas is a Python library for manipulating and analysing data. You can imagine pandas as a programmatic form of an Excel spreadsheet. |
 | [Introduction to Matplotlib](https://dev.mrdbourke.com/zero-to-mastery-ml/introduction-to-matplotlib/) | Matplotlib helps to visualize data. You can create plots and graphs programmatically based on various data sources. |
 | [Introduction to Scikit-Learn](https://dev.mrdbourke.com/zero-to-mastery-ml/introduction-to-scikit-learn/) | Scikit-Learn or sklearn is full of data processing techniques as well as pre-built machine learning algorithms for many different tasks. |
+| [Milestone Project 1: End-to-end Heart Disease Classification](https://dev.mrdbourke.com/zero-to-mastery-ml/end-to-end-heart-disease-classification/) | Here we'll put together everything we've gone through in the previous sections to create a machine learning model that is capable of classifying if someone has heart disease or not based on their health characteristics. We'll start with a raw dataset and work through performing an exploratory data analysis (EDA) on it before trying out several different machine learning models to see which performs best. | 
 | [Introduction to TensorFlow/Keras and Deep Learning](https://dev.mrdbourke.com/zero-to-mastery-ml/end-to-end-dog-vision-v2/) | TensorFlow/Keras are deep learning frameworks written in Python. Originally created by Google and are now open-source. These frameworks allow you to build and train neural networks, one of the most powerful kinds of machine learning models. In this section we'll learn about deep learning and TensorFlow/Keras by building Dog Vision 🐶👁️, a neural network to identify dog breeds in images. |
-| [Communicating your work](https://dev.mrdbourke.com/zero-to-mastery-ml/communicating-your-work/) | One of the most important parts of machine learning and any software project is communicating what you've found/done. This module takes the learnings from the previous sections and gives tips and tricks ons how you can communicate your work to others. |
+| [Communicating your work](https://dev.mrdbourke.com/zero-to-mastery-ml/communicating-your-work/) | One of the most important parts of machine learning and any software project is communicating what you've found/done. This module takes the learnings from the previous sections and gives tips and tricks on how you can communicate your work to others. |
 
 If you have any questions, leave an issue/discussion on the [course GitHub](https://github.com/mrdbourke/zero-to-mastery-ml/).
 
