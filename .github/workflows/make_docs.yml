@@ -34,6 +34,7 @@ jobs:
       - run: cp section-2-data-science-and-ml-tools/introduction-to-scikit-learn.ipynb docs/
       - run: cp communicating-your-work.md docs/
       - run: cp section-4-unstructured-data-projects/end-to-end-dog-vision-v2.ipynb docs/
+      - run: cp section-3-structured-data-projects/end-to-end-heart-disease-classification.ipynb docs/ 
       - run: cp images/* docs/images/
 
       # Last step to deploy docs
