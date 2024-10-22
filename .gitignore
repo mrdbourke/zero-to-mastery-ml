@@ -16,5 +16,6 @@ env
 # Misc (playground/large data file)
 data/bluebook_for_bulldozers/*
 data/bluebook-for-bulldozers/
+*.parquet
 *__MACOSX*
 notebook-playground.ipynb
