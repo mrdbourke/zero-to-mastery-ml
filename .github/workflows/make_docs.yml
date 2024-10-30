@@ -35,6 +35,7 @@ jobs:
       - run: cp communicating-your-work.md docs/
       - run: cp section-4-unstructured-data-projects/end-to-end-dog-vision-v2.ipynb docs/
       - run: cp section-3-structured-data-projects/end-to-end-heart-disease-classification.ipynb docs/ 
+      - run: cp section-3-structured-data-projects/end-to-end-bluebook-bulldozer-price-regression-v2.ipynb docs/
       - run: cp images/* docs/images/
 
       # Last step to deploy docs

@@ -5,5 +5,7 @@ Structured data is data you'd usually find in an Excel spreadsheet, pandas DataF
 The notebooks in this folder deal with two end-to-end machine learning modelling projects using the tools from the previous section.
 
 Key:
-* Notebooks with "-video" on the end are taken directly from the lectures on Udemy.
-* Notebooks without "-video" on the end include annotations and extra information not seen in the lectures.
+
+* Notebooks with `v1` or `v2` on the end indicate version numbers, the higher the number, the newer the version.
+* Notebooks with `-video` on the end are taken directly from the lectures on Udemy/Zero to Mastery.
+* Notebooks without `-video` on the end include annotations and extra information not seen in the video lectures.
