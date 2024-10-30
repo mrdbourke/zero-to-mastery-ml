@@ -13,7 +13,7 @@ nav:
   - Introduction to Scikit-Learn: "introduction-to-scikit-learn.ipynb"
   - Milestone Projects:
     - End-to-End Heart Disease Classification: "end-to-end-heart-disease-classification.ipynb"
-    - End-to-End Bulldozer Price Regression: "end-to-end-bluebook-for-bulldozers-price-regression-v2.ipynb"
+    - End-to-End Bulldozer Price Regression: "end-to-end-bluebook-bulldozer-price-regression-v2.ipynb"
   - Introduction to TensorFlow, Deep Learning and Transfer Learning: "end-to-end-dog-vision-v2.ipynb"
   - Communicating your work: "communicating-your-work.md"
 
