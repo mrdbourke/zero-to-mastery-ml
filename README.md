@@ -13,6 +13,7 @@ Welcome! This repository contains all of the code, notebooks, images and other m
 
 ## Updates
 
+* **30 October 2024** - Add course book version of [Milestone Project 2: Bulldozer Price Regression](https://dev.mrdbourke.com/zero-to-mastery-ml/end-to-end-bluebook-bulldozer-price-regression-v2/) (updated for 2025 onwards)
 * **12 September 2024** - Working on updating the materials for 2025, see progress in [#105](https://github.com/mrdbourke/zero-to-mastery-ml/discussions/105)
 * **12 October 2023** - Created an online book version of the course materials, see: https://dev.mrdbourke.com/zero-to-mastery-ml/ 
 
